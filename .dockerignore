@@ -1,0 +1,7 @@
+.venv
+Dockerfile
+tasks.db
+__pycache__/
+*.py[cod]
+*$py.class
+.idea/
